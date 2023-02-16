@@ -1,0 +1,15 @@
+faker
+tqdm
+shapely
+google
+google.cloud.bigquery
+pandas
+pandas-gbq
+configparser
+colorama
+mysql
+pymysql
+sqlalchemy
+psycopg2
+pytz
+
